@@ -1,11 +1,4 @@
 
-
-/* One thing that I could not figure out how to do was align all the
-"contact me" boxes with that of the larger boxes in the webpage. I 
-also was not able to align the images according to the px lengths.
-  */
-
-
 .caption {
   width: 250px;
   background-color: #4aaaa5;
@@ -28,6 +21,18 @@ body {
   color: #3f3f3a;
       
 }
+
+
+
+
+/* One thing that I could not figure out how to do was align all the
+"contact me" boxes with that of the larger boxes in the webpage. I 
+also was not able to align the images according to the px lengths.
+  */
+
+
+
+
 
 header {
   background: black;
